@@ -2,6 +2,9 @@
 
 This session is part of [**Biodiversity Genomics Academy 2023**](https://BGA23.org)
 
+Thu 14 Sep, 18:00 UTC  
+[Join on Zoom](https://sanger.zoom.us/j/98314386146?pwd=aTdHWStuOEZaVWxSWXdVQndXZ0lHZz09){ : target="_blank" .md-button .md-button--primary }
+
 ## Session Leader(s)
 
 Sanjida Rangwala, PhD  
