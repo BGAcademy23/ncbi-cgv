@@ -2,7 +2,7 @@
 
 This session is part of [**Biodiversity Genomics Academy 2023**](https://BGA23.org)
 
-Thu 14 Sep, 18:00 UTC  
+[Thu 14 Sep, 18:00 UTC](https://www.addevent.com/dir/?client=alorivImKzRucZeDgmNK105600&start=Thu+14+Sep+2023+18:00&end=Thu+14+Sep+2023+19:00&title=BGA23+Compare+whole+genome+assembly+alignments+using+NCBI’s+Comparative+Genome+Viewer+(CGV)&location=Online%2C+Zoom&timezone=Africa%2FMonrovia&organizer=Biodiversity+Genomics+Academy+2023&description=https%3A%2F%2Fsanger.zoom.us%2Fj%2F98314386146%3Fpwd%3DaTdHWStuOEZaVWxSWXdVQndXZ0lHZz09%5Cn%5Cnhttps%3A%2F%2FBGA23.org%2Fncbi-cgv)  
 [Join on Zoom](https://sanger.zoom.us/j/98314386146?pwd=aTdHWStuOEZaVWxSWXdVQndXZ0lHZz09){ : target="_blank" .md-button .md-button--primary }
 
 ## Session Leader(s)
